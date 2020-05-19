@@ -1,0 +1,19 @@
+{
+  "name": "odsregapp",
+  "version": "1.0.0",
+  "description": "Registration app being used for Ogun Digital Summit by Grazac",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Olayemi Toheeb <olayemitoheeblekan@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "date-and-time": "^0.12.0",
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
